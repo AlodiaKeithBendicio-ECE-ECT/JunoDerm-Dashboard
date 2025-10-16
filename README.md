@@ -1,14 +1,5 @@
 # 📊 Agent Productivity Dashboard – Google Looker  
 
-<p align="center">
-  <a href="https://github.com/joshuaalmari/data-analytics-portfolio" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/DATA%20ANALYTICS%20PORTFOLIO-2f2f2f?style=for-the-badge"><img src="https://img.shields.io/badge/CLICK%20TO%20RETURN-0078D4?style=for-the-badge">
-  </a>
-</p>
-
-
-
-
 ---
 
 ## 🏢 Project Overview
@@ -108,10 +99,3 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 
 ---
 
-<p align="center">
-  ⚡ <b>Repository:</b> agent-productivity-looker-dashboard  
-  <br><br>
-  <a href="https://github.com/joshuaalmari/data-analytics-portfolio">
-    <img src="https://img.shields.io/badge/BACK%20TO-DATA%20ANALYTICS%20PORTFOLIO-2f2f2f?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
